@@ -1,4 +1,4 @@
-TechnologyForSchools
+Technology For Schools
 ====================
 
 Guide for schools interested in the basics of integrating technology into their classrooms.
