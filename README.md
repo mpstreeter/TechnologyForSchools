@@ -66,12 +66,12 @@ Benefits for teachers
 ------------------------
 As a teacher myself, I have benefited greatly from using technology not only in my lessons with students but also in the way that I plan my lessons and organize my classroom. 
 
-#### Organizing curriculum
+#### Organized curriculum
 In planning lessons, there are so many things to remember and organize for each part of what will happen in class each day. To keep all of this organized, I maintain documents for each day's lesson plan, so that the following day, week, year, I can revisit that lesson plan and modify the plan. I can also send the plan to other teachers or to administrators for advice and feedback. 
 
 Furthermore, I utilize folders to organize the lesson plans by unit so that I can also keep the lesson plans together with the associated tests (and the answer keys), handouts, homework assignments, and any other useful resources (e.g. maps, pictures, videos) that I've used over the years in that curriculum unit. So, in the future, when another teacher wants to know what students are learning in my class, whether to prepare younger students or know where to start the year with older students, I can much more easily share all of my documents with them on a thumb/flash/USB drive or by email. 
 
-#### Maintaining class records
+#### Maintenance of class records
 With technology, I can also more easily maintain class records like attendance, student grades/marks, and letters to parents. With all of these records saved in documents on my computer, I can look for patterns in student performance from week to week and from year to year. 
 
 I can more easily answer questions like, 
