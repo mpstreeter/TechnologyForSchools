@@ -19,6 +19,8 @@ Topics covered:
 4. Key skills for students
 5. Goal setting and planning
 
-**About Mikala** I have taught effectively with technology for the last 5 years and trained teachers both in the U.S. and in Africa. I am currently a graduate student at Stanford University studying learning, design and technology. You can learn more about me at: about.me/mikala
+**About Mikala** 
+I have taught effectively with technology for the last 5 years and trained teachers both in the U.S. and in Africa. I am currently a graduate student at Stanford University studying learning, design and technology. You can learn more about me at: about.me/mikala
 
-**Questions?** Email Mikala at mpstreeter@gmail.com 
+**Questions?** 
+Email Mikala at mpstreeter@gmail.com 
