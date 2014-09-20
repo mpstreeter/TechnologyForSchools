@@ -58,7 +58,7 @@ The skills your students need to master are:
 	* Presenting the presentation
 	* Saving the presentation
 
-...See more details here.
+[...See more details here.](https://github.com/mpstreeter/TechnologyForSchools/blob/master/Student-Skills.md)
 
 
 <a name="teachers"></a>
