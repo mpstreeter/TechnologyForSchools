@@ -123,4 +123,4 @@ Specifically, here are the skills your teachers need to master. They are similar
 	* Presenting the presentation
 	* Saving the presentation
 
-...See more details here.
+[...See more details here.](https://github.com/mpstreeter/TechnologyForSchools/blob/master/Teacher-Skills.md)
