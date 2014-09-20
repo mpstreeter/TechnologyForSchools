@@ -12,9 +12,22 @@ This guide will walk you through just how to develop this plan and train your te
 <a name="students"></a>
 Benefits for students
 -----------------------
-There are clear benefits for using computers with students and is most likely your motivation for wanting to bring computers to your school or develop a plan for how to use them more effectively. In the 21st century, it is vital that students around the world have computer technology skills to compete for jobs and college admissions. 
+There are clear benefits for using computers with students and is most likely your motivation for wanting to bring computers to your school or develop a plan for how to use them more effectively. 
 
-Beyond that, computers teach students to explore and discover as they learn. Given the right access to information (even offline), students can use computers to enhance their learning as they become independent learners who know how to think critically and find the resources they need to answer questions about the world around them. 
+#### 21st Century Skills
+In the 21st century, it is vital that students around the world have computer technology skills to compete for jobs and college admissions. Your students will have many more higher-paying job options if they're able to type, use word processing and presentation software, and navigate the Internet to complete tasks. 
+
+Colleges will also expect that students have these skills as first-year students and will expect that applicants can type their applications and submit them online. Preparing your students for this world by incorporating computer skills into their classroom lessons with give them an advantage in their future academic and professional careers.
+
+#### Academic Independence and Discovery
+
+Computers also teach students to explore and discover as they learn. Given the right access to information (even offline), students can use computers to enhance their learning as they become independent learners who know how to think critically and find the resources they need to answer questions about the world around them. 
+
+In my own classroom, I've often assigned students tasks that pushed them to answer questions about a concept beyond our classroom lesson. For example, I might ask them to determine the greatest advance in technology in the last 20 years and explain their choice with evidence from research. In class, we likely only covered a few great inventions, so students are forced to learn more about other critical inventions (from a list of suggestions I've given, especially for younger students) and then to think critically about what they learn in order to make an evidence-based decision about what is the greatest technological advance in the last 20 years. As a teacher, it is an incredible experience to see my students working together as they dive into articles and videos to learn more about the world, and then to listen as they excitedly present their findings to one another.
+
+This experience (and others like it) shows students the excitement of learning by discovery and how they can use resources on the computer to answer questions of all kinds. 
+
+#### Key Skills
 
 The skills your students need to master are:
 
@@ -78,6 +91,7 @@ Khan Academy (KA) is a great lesson planning tool because you're able to see how
 
 Here's a Khan Academy video on addition as an example: [Click Here](https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-topic/basic-addition-subtraction/v/addition-introduction)
 
+#### Key Skills 
 Specifically, here are the skills your teachers need to master. They are similar to the skills students need with some differences. 
 
 * Basic computer skills 
@@ -110,13 +124,3 @@ Specifically, here are the skills your teachers need to master. They are similar
 	* Saving the presentation
 
 ...See more details here.
-
-------------------
-
-**About the author** 
-
-Mikala Streeter has taught effectively with technology for the last 5 years and trained teachers both in the U.S. and in Africa. She is currently a graduate student at Stanford University studying learning, design and technology. You can learn more about Mikala at: about.me/mikala
-
-**Questions?** 
-
-Email Mikala at mpstreeter@gmail.com 
