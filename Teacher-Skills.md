@@ -1,7 +1,7 @@
 Computer Skills for Teachers
 =======================
 
-### *Note for teachers and administrators:*
+### *Note for head teacher or administrators:*
 Here is a detailed list of the computer skills your teachers need to know. The skills are organized into levels and the levels are ordered by importance. 
 
 Each skill is written as a concrete task so that teachers can demonstrate when they've mastered each skill. To keep a record of which skills have been mastered, you can print this list and check off (or initial) next to each skill after the teacher has shown you s/he can correctly complete the task listed. 
