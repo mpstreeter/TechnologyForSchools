@@ -1,11 +1,15 @@
 Computer Skills for Students
 =======================
 
+### *Note for teachers and administrators:*
+
 Here is a detailed list of the computer skills your students need to know. The skills are organized into levels and the levels are ordered by importance. 
 
 Each skill is written as a concrete task so that students can demonstrate when they've mastered each skill. To keep a record of which skills have been mastered, you can print this list and check off (or initial) next to each skill after the student has shown you s/he can correctly complete the task listed. 
 
 The skills listed here can be applied to most school technology setups, including those with limited or no Internet access, BUT before using with students, you should review this list and modify as needed for your school's technology setup. 
+
+### *Checklist:*
 
 ### Level 1 | Educational Games on the Computer
 
