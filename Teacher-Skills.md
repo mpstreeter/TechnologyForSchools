@@ -9,7 +9,52 @@ Each skill is written as a concrete task so that teachers can demonstrate when t
 The skills listed here can be applied to most school technology setups, including those with limited or no Internet access, BUT before using with teachers, you should review this list and modify for your school's technology setup. 
 
 ### *Checklist:*
-### Level 1 | Educational Games on the Computer
+### Level 1 | Basic Computer Skills
+* Discuss how to take care of the computer.
+* Name 3 parts of the computer. Describe what they do and how to use them.
+* Describe 3 ways that you can use the computer. 
+* Demonstrate how to log in and log out of the computer.
+* Demonstrate how to perform basic troubleshooting techniques: 
+  * Check cables
+  * Log out and log back in
+  * Restart the computer 
+* Demonstrate how to use a mouse: 
+  * Point
+  * Click
+  * Double-click
+  * Drag and drop
+  * Right-click
+  * Left-click
+  * Scroll 
+* Identify the Start button
+* Demonstrate how to search for an application
+* Identify the task bar in an application window
+* Demonstrate how to use windows: 
+  * Select a window
+  * Open a window
+  * Move a window
+  * Resize a window
+  * Scroll in a window
+  * Activate and de-activate a window
+  * Close a window
+* Demonstrate how to open and move among more than one application at a time 
+* Demonstrate how to start an application and create a new document
+* Demonstrate how to create and name files/documents and folders 
+* On a USB stick, demonstrate how to:
+  * Create a folder
+  * Save a file
+  * Rename a file
+  * Open a file
+  * Delete a file
+* Demonstrate how to print a document
+* Demonstrate how to load paper into the printer
+* Demonstrate how to monitor printing (pause, resume, cancel)
+* Demonstrate how to connect to the wifi
+  * Find icon to see if connected to wifi
+  * Open window to see all wifi options
+  * Connect to school's wifi
+  
+### Level 2 | Educational Games on the Computer
 
 * Explain how playing educational games can benefit you as a teacher.
 * Explain how playing educational games can help your students learn more. 
@@ -21,7 +66,7 @@ The skills listed here can be applied to most school technology setups, includin
 	* Find a game related to reading, play it and explain what skills students might learn from it.
 	* Find a fun game, play it and explain which age of students might enjoy it and why.
 
-### Level 2 | Preparing & Teaching Students with Computers
+### Level 3 | Preparing & Teaching Students with Computers
 * Demonstrate how to find a video on Khan Academy that you could use to review a topic while preparing your lesson. 
 * Demonstrate how to find an article on Wikipedia that you could use to review a topic while preparing your lesson. 
 * Explain the expectations for student behavior in the computer lab. 
@@ -33,7 +78,7 @@ The skills listed here can be applied to most school technology setups, includin
 * Explain how you will help a student troubleshoot if something seems to go wrong with a computer.
 
 
-### Level 3 | Word Processing
+### Level 4 | Word Processing
 
 * Demonstrate how to open a word processing application
 * Demonstrate how to create a new file
@@ -58,7 +103,7 @@ The skills listed here can be applied to most school technology setups, includin
 	* Using a word processing application, create a flier for an event at your school. 
 	* Using a word processing application, print your favorite quote to decorate your classroom. 
 
-### Level 4 | Presentations
+### Level 5 | Presentations
 
 * Demonstrate how to create a new presentation file. 
 * Demonstrate how to insert and delete text
